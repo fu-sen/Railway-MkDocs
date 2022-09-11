@@ -1,5 +1,7 @@
 ## Vercel-MkDocs
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/DDlS-S?referralCode=weEGSc)
+
 **MkDocs with Railway (minimal configuration)**
 
 - [Railway](https://railway.app/)
