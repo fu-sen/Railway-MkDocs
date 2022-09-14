@@ -4,4 +4,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 RUN mkdocs build
 FROM caddy:alpine
 COPY --from=mkdocs ./site/ /usr/share/caddy/
-COPY ./Caddyfile /etc/caddy/Caddyfile
+RUN sed -i 's/:80/:{$PORT}/' /etc/caddy/Caddyfile
