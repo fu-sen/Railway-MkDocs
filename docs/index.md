@@ -1,8 +1,8 @@
 # Railway-MkDocs
 
-**MkDocs with Railway (minimal configuration)**
-
 <https://github.com/fu-sen/Railway-MkDocs>
+
+**MkDocs with Railway (minimal configuration)**
 
 - [Railway](https://railway.app/)
 - [MkDocs](https://www.mkdocs.org/)
