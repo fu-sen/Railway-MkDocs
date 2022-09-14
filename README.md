@@ -1,4 +1,4 @@
-## Vercel-MkDocs
+## Railway-MkDocs
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/DDlS-S?referralCode=weEGSc)
 
